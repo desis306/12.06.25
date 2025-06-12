@@ -1,0 +1,14 @@
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\bin\Debug\net8.0\TestNaDesislava12.06.25.exe
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\bin\Debug\net8.0\TestNaDesislava12.06.25.deps.json
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\bin\Debug\net8.0\TestNaDesislava12.06.25.runtimeconfig.json
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\bin\Debug\net8.0\TestNaDesislava12.06.25.dll
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\bin\Debug\net8.0\TestNaDesislava12.06.25.pdb
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\obj\Debug\net8.0\TestNaDesislava12.06.25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\obj\Debug\net8.0\TestNaDesislava12.06.25.AssemblyInfoInputs.cache
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\obj\Debug\net8.0\TestNaDesislava12.06.25.AssemblyInfo.cs
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\obj\Debug\net8.0\TestNaDesislava12.06.25.csproj.CoreCompileInputs.cache
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\obj\Debug\net8.0\TestNaDesislava12.06.25.dll
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\obj\Debug\net8.0\refint\TestNaDesislava12.06.25.dll
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\obj\Debug\net8.0\TestNaDesislava12.06.25.pdb
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\obj\Debug\net8.0\TestNaDesislava12.06.25.genruntimeconfig.cache
+C:\Users\XSU_1\Downloads\denkata e smotan\TestNaDesislava12.06.25\obj\Debug\net8.0\ref\TestNaDesislava12.06.25.dll

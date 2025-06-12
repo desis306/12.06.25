@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestNaDesislava12.06.25/1.0.0": {
+        "runtime": {
+          "TestNaDesislava12.06.25.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestNaDesislava12.06.25/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
